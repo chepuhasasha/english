@@ -312,64 +312,58 @@
       "example": null
     },
     {
-      "word": "Swimming costume",
-      "translate": "Купальный костюм",
-      "topic": "Clothes and Accessories",
-      "example": null
-    },
-    {
       "word": "Dress",
       "translate": "Платье",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "I want this black dress - Я хочу это черное платье"
     },
     {
       "word": "Earring",
       "translate": "Серьги",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "I like your earrings - Мне нравятся твои серьги"
     },
     {
-      "word": "Nacklace",
+      "word": "Necklace",
       "translate": "Ожерелье",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "How much does your necklace cost? - Сколько стоит твое ожерелье?"
     },
     {
       "word": "Pocket",
-      "translate": "Корман",
+      "translate": "Карман",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "I have a hole in my pocket - У меня дырка в кармане"
     },
     {
       "word": "Purse",
       "translate": "Маленькая дамская сумочка",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "What do you have in your purse - Что лежит в твоей сумочке?"
     },
     {
       "word": "Swimsuit",
       "translate": "Купальник",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "I have brand new swimsuit - У меня есть брендовый купальник"
     },
     {
       "word": "Tie",
       "translate": "Галстук",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "My tie shines like a diamond - Мой галстук сияет как бриллиант"
     },
     {
       "word": "Red",
       "translate": "Красный",
       "topic": "Colors",
-      "example": "It is red button."
+      "example": "It is a red button."
     },
     {
       "word": "Blue",
       "translate": "Синий",
       "topic": "Colors",
-      "example": "My hard is blue."
+      "example": "My heart is blue."
     }
   ]
 }
