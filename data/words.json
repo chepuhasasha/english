@@ -1,242 +1,369 @@
 {
-  "Appliances": [
+  "topics": [
+    "Appliances",
+    "Clothes and Accessories",
+    "Colors"
+  ],
+  "words": [
     {
       "word": "Camera",
-      "translate": "Камера"
+      "translate": "Камера",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Laptop",
-      "translate": "Ноутбук"
+      "translate": "Ноутбук",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Telephone",
-      "translate": "Телефон"
+      "translate": "Телефон",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Electric lights",
-      "translate": "Электрический свет"
+      "translate": "Электрический свет",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Electricity",
-      "translate": "Электричество"
+      "translate": "Электричество",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Clock",
-      "translate": "Настенные часы"
+      "translate": "Настенные часы",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Fridge",
-      "translate": "Холодильник"
+      "translate": "Холодильник",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Washing machine",
-      "translate": "Стиральная машина"
+      "translate": "Стиральная машина",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Gas",
-      "translate": "Газ"
+      "translate": "Газ",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Cooker",
-      "translate": "Плита"
+      "translate": "Плита",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Heating",
-      "translate": "Отопление"
+      "translate": "Отопление",
+      "topic": "Appliances",
+      "example": null
     },
     {
       "word": "Lamp",
-      "translate": "Лампа"
-    }
-  ],
-  "Clothes and Accessories": [
+      "translate": "Лампа",
+      "topic": "Appliances",
+      "example": null
+    },
     {
       "word": "Bag",
-      "translate": "Сумка"
+      "translate": "Сумка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Raincoat",
-      "translate": "Дождивик"
+      "translate": "Дождивик",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Tights",
-      "translate": "Колготки"
+      "translate": "Колготки",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Bathing suit",
-      "translate": "Купальный костюм"
+      "translate": "Купальный костюм",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Glasses",
-      "translate": "Очки"
+      "translate": "Очки",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Ring",
-      "translate": "Кольцо"
+      "translate": "Кольцо",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Trainers",
-      "translate": "Кроссовки"
+      "translate": "Кроссовки",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Belt",
-      "translate": "Ремень"
+      "translate": "Ремень",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Glove",
-      "translate": "Перчатка"
+      "translate": "Перчатка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Scarf",
-      "translate": "Шарф"
+      "translate": "Шарф",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Trousers",
-      "translate": "Брюки"
+      "translate": "Брюки",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Blouse",
-      "translate": "Блуза"
+      "translate": "Блуза",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Handbug",
-      "translate": "Дамская сумка"
+      "translate": "Дамская сумка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Shirt",
-      "translate": "Рубашка"
+      "translate": "Рубашка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Try on",
-      "translate": "Примерять"
+      "translate": "Примерять",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Boot",
-      "translate": "Ботинок"
+      "translate": "Ботинок",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Hat",
-      "translate": "Шляпа"
+      "translate": "Шляпа",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Shoes",
-      "translate": "Туфли"
+      "translate": "Туфли",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "T-shirt",
-      "translate": "Футболка"
+      "translate": "Футболка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Bracelet",
-      "translate": "Браслет"
+      "translate": "Браслет",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Jacket",
-      "translate": "Пиджак"
+      "translate": "Пиджак",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Shorts",
-      "translate": "Шорты"
+      "translate": "Шорты",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Umbrella",
-      "translate": "Зонт"
+      "translate": "Зонт",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Cap",
-      "translate": "Кепка"
+      "translate": "Кепка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Jeans",
-      "translate": "Джинсы"
+      "translate": "Джинсы",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Skirt",
-      "translate": "Юбка"
+      "translate": "Юбка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Uniform",
-      "translate": "Униворма"
+      "translate": "Униворма",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Chain",
-      "translate": "Цепочка"
+      "translate": "Цепочка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Jewellery | Jewelry",
-      "translate": "Ювелирные украшения"
+      "translate": "Ювелирные украшения",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Suit",
-      "translate": "Костюм"
+      "translate": "Костюм",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Wallet",
-      "translate": "Кошелек"
+      "translate": "Кошелек",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Clothes",
-      "translate": "Одежда"
+      "translate": "Одежда",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Jumper",
-      "translate": "Джемпер"
+      "translate": "Джемпер",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Sunglasses",
-      "translate": "Солнцезащитные очки"
+      "translate": "Солнцезащитные очки",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Wath",
-      "translate": "Наручные часы"
+      "translate": "Наручные часы",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Coat",
-      "translate": "Пальто"
+      "translate": "Пальто",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Kit",
-      "translate": "Комплект | Снаряжение"
+      "translate": "Комплект | Снаряжение",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Sweater",
-      "translate": "Свитер"
+      "translate": "Свитер",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Wear",
-      "translate": "Носить"
+      "translate": "Носить",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Swimming costume",
-      "translate": "Купальный костюм"
+      "translate": "Купальный костюм",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Dress",
-      "translate": "Платье"
+      "translate": "Платье",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Earring",
-      "translate": "Серьги"
+      "translate": "Серьги",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Nacklace",
-      "translate": "Ожерелье"
+      "translate": "Ожерелье",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Pocket",
-      "translate": "Корман"
+      "translate": "Корман",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Purse",
-      "translate": "Маленькая дамская сумочка"
+      "translate": "Маленькая дамская сумочка",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Swimsuit",
-      "translate": "Купальник"
+      "translate": "Купальник",
+      "topic": "Clothes and Accessories",
+      "example": null
     },
     {
       "word": "Tie",
-      "translate": "Галстук"
+      "translate": "Галстук",
+      "topic": "Clothes and Accessories",
+      "example": null
+    },
+    {
+      "word": "Red",
+      "translate": "Красный",
+      "topic": "Colors",
+      "example": "It is red button."
     }
   ]
 }
