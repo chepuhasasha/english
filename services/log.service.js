@@ -5,7 +5,7 @@ export default {
     console.log(
       `${chalk.gray(topic.toUpperCase())}\n\n${chalk.bgBlueBright(
         chalk.black(` ${word} `)
-      )} ${translate} \n\n ${chalk.grey(example)}\n`
+      )} ${translate} \n\n ${chalk.grey(chalk.italic(example))}\n`
     );
   },
   clearLog() {
