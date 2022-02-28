@@ -3,9 +3,9 @@ import chalk from "chalk";
 export default {
   word({ word, translate, topic, example }) {
     console.log(
-      `${chalk.gray(topic.toUpperCase())}\n${chalk.bgMagentaBright(
+      `${chalk.gray(topic.toUpperCase())}\n\n${chalk.bgBlueBright(
         chalk.black(` ${word} `)
-      )} ${translate} \n ${chalk.grey(example)}`
+      )} ${translate} \n\n ${chalk.grey(example)}\n`
     );
   },
   clearLog() {
