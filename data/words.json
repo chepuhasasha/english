@@ -1,0 +1,242 @@
+{
+  "Appliances": [
+    {
+      "word": "Camera",
+      "translate": "Камера"
+    },
+    {
+      "word": "Laptop",
+      "translate": "Ноутбук"
+    },
+    {
+      "word": "Telephone",
+      "translate": "Телефон"
+    },
+    {
+      "word": "Electric lights",
+      "translate": "Электрический свет"
+    },
+    {
+      "word": "Electricity",
+      "translate": "Электричество"
+    },
+    {
+      "word": "Clock",
+      "translate": "Настенные часы"
+    },
+    {
+      "word": "Fridge",
+      "translate": "Холодильник"
+    },
+    {
+      "word": "Washing machine",
+      "translate": "Стиральная машина"
+    },
+    {
+      "word": "Gas",
+      "translate": "Газ"
+    },
+    {
+      "word": "Cooker",
+      "translate": "Плита"
+    },
+    {
+      "word": "Heating",
+      "translate": "Отопление"
+    },
+    {
+      "word": "Lamp",
+      "translate": "Лампа"
+    }
+  ],
+  "Clothes and Accessories": [
+    {
+      "word": "Bag",
+      "translate": "Сумка"
+    },
+    {
+      "word": "Raincoat",
+      "translate": "Дождивик"
+    },
+    {
+      "word": "Tights",
+      "translate": "Колготки"
+    },
+    {
+      "word": "Bathing suit",
+      "translate": "Купальный костюм"
+    },
+    {
+      "word": "Glasses",
+      "translate": "Очки"
+    },
+    {
+      "word": "Ring",
+      "translate": "Кольцо"
+    },
+    {
+      "word": "Trainers",
+      "translate": "Кроссовки"
+    },
+    {
+      "word": "Belt",
+      "translate": "Ремень"
+    },
+    {
+      "word": "Glove",
+      "translate": "Перчатка"
+    },
+    {
+      "word": "Scarf",
+      "translate": "Шарф"
+    },
+    {
+      "word": "Trousers",
+      "translate": "Брюки"
+    },
+    {
+      "word": "Blouse",
+      "translate": "Блуза"
+    },
+    {
+      "word": "Handbug",
+      "translate": "Дамская сумка"
+    },
+    {
+      "word": "Shirt",
+      "translate": "Рубашка"
+    },
+    {
+      "word": "Try on",
+      "translate": "Примерять"
+    },
+    {
+      "word": "Boot",
+      "translate": "Ботинок"
+    },
+    {
+      "word": "Hat",
+      "translate": "Шляпа"
+    },
+    {
+      "word": "Shoes",
+      "translate": "Туфли"
+    },
+    {
+      "word": "T-shirt",
+      "translate": "Футболка"
+    },
+    {
+      "word": "Bracelet",
+      "translate": "Браслет"
+    },
+    {
+      "word": "Jacket",
+      "translate": "Пиджак"
+    },
+    {
+      "word": "Shorts",
+      "translate": "Шорты"
+    },
+    {
+      "word": "Umbrella",
+      "translate": "Зонт"
+    },
+    {
+      "word": "Cap",
+      "translate": "Кепка"
+    },
+    {
+      "word": "Jeans",
+      "translate": "Джинсы"
+    },
+    {
+      "word": "Skirt",
+      "translate": "Юбка"
+    },
+    {
+      "word": "Uniform",
+      "translate": "Униворма"
+    },
+    {
+      "word": "Chain",
+      "translate": "Цепочка"
+    },
+    {
+      "word": "Jewellery | Jewelry",
+      "translate": "Ювелирные украшения"
+    },
+    {
+      "word": "Suit",
+      "translate": "Костюм"
+    },
+    {
+      "word": "Wallet",
+      "translate": "Кошелек"
+    },
+    {
+      "word": "Clothes",
+      "translate": "Одежда"
+    },
+    {
+      "word": "Jumper",
+      "translate": "Джемпер"
+    },
+    {
+      "word": "Sunglasses",
+      "translate": "Солнцезащитные очки"
+    },
+    {
+      "word": "Wath",
+      "translate": "Наручные часы"
+    },
+    {
+      "word": "Coat",
+      "translate": "Пальто"
+    },
+    {
+      "word": "Kit",
+      "translate": "Комплект | Снаряжение"
+    },
+    {
+      "word": "Sweater",
+      "translate": "Свитер"
+    },
+    {
+      "word": "Wear",
+      "translate": "Носить"
+    },
+    {
+      "word": "Swimming costume",
+      "translate": "Купальный костюм"
+    },
+    {
+      "word": "Dress",
+      "translate": "Платье"
+    },
+    {
+      "word": "Earring",
+      "translate": "Серьги"
+    },
+    {
+      "word": "Nacklace",
+      "translate": "Ожерелье"
+    },
+    {
+      "word": "Pocket",
+      "translate": "Корман"
+    },
+    {
+      "word": "Purse",
+      "translate": "Маленькая дамская сумочка"
+    },
+    {
+      "word": "Swimsuit",
+      "translate": "Купальник"
+    },
+    {
+      "word": "Tie",
+      "translate": "Галстук"
+    }
+  ]
+}
