@@ -2,7 +2,8 @@
   "topics": [
     "Appliances",
     "Clothes and Accessories",
-    "Colors"
+    "Colors",
+    "IT"
   ],
   "words": [
     {
@@ -364,6 +365,42 @@
       "translate": "Синий",
       "topic": "Colors",
       "example": "My heart is blue."
+    },
+    {
+      "word": "Developer",
+      "translate": "Разработчик",
+      "topic": "IT",
+      "example": "I am a Developer - Я разработчик"
+    },
+    {
+      "word": "Event",
+      "translate": "Событие",
+      "topic": "IT",
+      "example": "I`m waiting for the event to fire - Я жду когда событие сработает"
+    },
+    {
+      "word": "Example",
+      "translate": "Пример",
+      "topic": "IT",
+      "example": "Example of use in code - Пример использования в коде"
+    },
+    {
+      "word": "Foult-tolerant",
+      "translate": "Отказоустойчивость",
+      "topic": "IT",
+      "example": "We need to improve the fault tolerance of the servise - Нам нужно повысить отказоустойчивость сервиса"
+    },
+    {
+      "word": "Folder",
+      "translate": "Папка",
+      "topic": "IT",
+      "example": "The files are in this folder - Файлы находятся в этой папке"
+    },
+    {
+      "word": "Access",
+      "translate": "Доступ",
+      "topic": "IT",
+      "example": "Access allowed - Доступ разрешон"
     }
   ]
 }
