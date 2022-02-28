@@ -364,6 +364,12 @@
       "translate": "Красный",
       "topic": "Colors",
       "example": "It is red button."
+    },
+    {
+      "word": "Blue",
+      "translate": "Синий",
+      "topic": "Colors",
+      "example": "My hard is blue."
     }
   ]
 }

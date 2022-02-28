@@ -2,6 +2,7 @@
 
 import { readFile, writeFile } from "fs/promises";
 import inquirer from "inquirer";
+import cnsl from "./services/log.service.js";
 
 const data = JSON.parse(
   await readFile(new URL("./data/words.json", import.meta.url))
@@ -22,35 +23,36 @@ const chain = (question, next, accum = null) => {
 };
 
 const init = () => {
+  cnsl.clearLog();
+  getWord();
   chain(
     {
       type: "list",
       name: "mode",
       message: "Mode:",
-      choices: ["Добавить новое слово", "Добавить тему", "Тренировка", "Выход"],
+      choices: ["GET WORD", "ADD NEW WORD", "ADD NEW TOPIC", "QUIT"],
     },
     (result) => {
       switch (result.mode) {
-        case "Добавить новое слово":
+        case "ADD NEW WORD":
           AddWord((res) => {
             console.log(res);
             init();
           });
           break;
-        case "Добавить тему":
+        case "ADD NEW TOPIC":
           AddTopic((res) => {
             console.log(res);
             init();
           });
           break;
-        case "Тренировка":
-          train((res) => {
-            console.log(res);
+        case "GET WORD":
+          getWord(() => {
             init();
           });
           break;
 
-        case "Выход":
+        case "QUIT":
           break;
 
         default:
@@ -61,6 +63,7 @@ const init = () => {
 };
 
 const AddWord = (next) => {
+  cnsl.clearLog();
   chain(
     {
       type: "string",
@@ -95,6 +98,7 @@ const AddWord = (next) => {
 };
 
 const AddTopic = (next) => {
+  cnsl.clearLog();
   chain(
     {
       type: "string",
@@ -112,18 +116,13 @@ const AddTopic = (next) => {
   );
 };
 
-const train = () => {
-  chain(
-    {
-      type: "number",
-      name: "size",
-      message: "How many words?",
-    },
-    (result) => {
-      console.log(result);
-      next();
-    }
-  );
+const getWord = (next) => {
+  cnsl.clearLog();
+  const num = Math.floor(Math.random() * data.words.length);
+  cnsl.word(data.words[num]);
+  if (next) {
+    next();
+  }
 };
 
 init();
