@@ -280,19 +280,19 @@
       "word": "Sunglasses",
       "translate": "Солнцезащитные очки",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "Put on your sunglasses -  Надень свои очки"
     },
     {
-      "word": "Wath",
+      "word": "Watch",
       "translate": "Наручные часы",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "My watch are expensive - Мои часы дорогие"
     },
     {
       "word": "Coat",
       "translate": "Пальто",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "I like to wear my red coat - Мне нравится надевать мое красное пальто"
     },
     {
       "word": "Kit",
@@ -304,13 +304,13 @@
       "word": "Sweater",
       "translate": "Свитер",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "This sweater is warm - Этот свитер теплый"
     },
     {
       "word": "Wear",
       "translate": "Носить",
       "topic": "Clothes and Accessories",
-      "example": null
+      "example": "I dont wear pants - Я не ношу трусы"
     },
     {
       "word": "Dress",
@@ -400,7 +400,7 @@
       "word": "Access",
       "translate": "Доступ",
       "topic": "IT",
-      "example": "Access allowed - Доступ разрешон"
+      "example": "Access allowed - Доступ разрешен"
     }
   ]
 }
