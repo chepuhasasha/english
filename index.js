@@ -28,12 +28,12 @@ const init = () => {
   chain(
     {
       type: "list",
-      name: "mode",
-      message: "Mode:",
+      name: "command",
+      message: "COMMAND",
       choices: ["GET WORD", "ADD NEW WORD", "ADD NEW TOPIC", "QUIT"],
     },
     (result) => {
-      switch (result.mode) {
+      switch (result.command) {
         case "ADD NEW WORD":
           AddWord((res) => {
             console.log(res);
